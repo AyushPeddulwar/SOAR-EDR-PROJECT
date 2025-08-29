@@ -17,3 +17,20 @@ This project provides a practical, hands-on walkthrough of deploying and integra
 - Tines for workflow automation and orchestration.
 - LaZagne for simulating credential-theft attempts.
 - Email and Slack for alert and notification integrations.
+
+<br>
+
+##Preview
+[**Step 1. Azure Setup for Microsoft Sentinel**  
+📄 PDF Guide]()
+
+## Design a Logic Diagram
+Use **draw.io** to draw diagrams.
+
+<br>
+
+## Project Walkthrough
+Video
+
+
+
