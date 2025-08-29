@@ -30,7 +30,9 @@ Use **draw.io** to draw diagrams.
 <br>
 
 ## Project Walkthrough
-Video
+[Video](https://www.linkedin.com/posts/ayushpeddulwar_soar-edr-cybersecurity-activity-7367277813957160961-q0Ws?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD9CHAsBMS95J7Eqx2XpLa3z5RSAweTm63I)
+
+[Back to top](#introduction)
 
 
 
