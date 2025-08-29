@@ -20,9 +20,9 @@ This project provides a practical, hands-on walkthrough of deploying and integra
 
 <br>
 
-##Preview
-[**Step 1. Azure Setup for Microsoft Sentinel**  
-📄 PDF Guide]()
+## Preview
+[**Project Preview**  
+📄 PDF Preview](https://github.com/AyushPeddulwar/SOAR-EDR-PROJECT/blob/main/SOAR.pdf)
 
 ## Design a Logic Diagram
 Use **draw.io** to draw diagrams.
