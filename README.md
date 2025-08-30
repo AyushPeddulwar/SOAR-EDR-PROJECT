@@ -1,33 +1,30 @@
-# SOAR-EDR-PROJECT
+# SOAR-EDR-PROJECT 🔐
 
 <h3>Introduction</h3>
-This project provides a practical, hands-on walkthrough of deploying and integrating Security Orchestration, Automation, and Response (SOAR) within a Security Operations Center (SOC) environment. It leverages Tines as the SOAR platform and LimaCharlie as the Endpoint Detection and Response (EDR) solution to simulate real-world scenarios.
+SOAR-EDR Project is a simulated Security Orchestration, Automation, and Response(SOAR) environment focused on real-time threat detection and response. It uses Tines as the SOAR platform and LimaCharlie as the EDR(Endpoint Detection and Response) solution for detection, investigation, and response automation.
 
-<h3>Key activities in the project include:</h3>
+## 📂 Repo Structure
 
-- Installing and configuring an EDR agent on an endpoint to explore its monitoring and response features.
-- Crafting a custom detection rule to trigger alerts for password-recovery or credential-dumping tools.
+- `report/` - write-up
+- `report/media` - All diagram, icons and screenshots
+
+## 📝 Overview
+
+- Installing and configuring an EDR agent on Windows VM.
+- Crafting a custom detection rule to trigger alerts.
 - Automating incident notifications through both email and Slack channels.
 - Executing automated EDR response actions, such as isolating compromised endpoints.
 
-<h3>Tools and setup used: </h3>
+## 🚨 Technologies Used
 
-- A virtualized environment (Windows 10 VM in this case).
-- LimaCharlie for endpoint detection and response.
-- Tines for workflow automation and orchestration.
-- LaZagne for simulating credential-theft attempts.
-- Email and Slack for alert and notification integrations.
+Slack • LimaCharlie • Tines • VMware
 
-<br>
+---
 
-## Preview
+<h3> Preview </h3>
+
 [**Project Preview**  
-📄 PDF Preview](https://github.com/AyushPeddulwar/SOAR-EDR-PROJECT/blob/main/SOAR.pdf)
-
-## Design a Logic Diagram
-Use **draw.io** to draw diagrams.
-
-<br>
+📄 PDF ](https://github.com/AyushPeddulwar/SOAR-EDR-PROJECT/blob/main/SOAR.pdf)
 
 ## Project Walkthrough
 [Video](https://www.linkedin.com/posts/ayushpeddulwar_soar-edr-cybersecurity-activity-7367277813957160961-q0Ws?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD9CHAsBMS95J7Eqx2XpLa3z5RSAweTm63I)
