@@ -1,4 +1,4 @@
-# SOAR-EDR-PROJECT 🔐
+# SOAR-EDR PROJECT 🔐
 
 SOAR-EDR Project is a simulated Security Orchestration, Automation, and Response(SOAR) environment focused on real-time threat detection and response. It uses Tines as the SOAR platform and LimaCharlie as the EDR(Endpoint Detection and Response) solution for detection, investigation, and response automation.
 
