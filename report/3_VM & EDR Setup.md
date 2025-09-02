@@ -22,7 +22,7 @@ For this project, Lima Charlie was the chosen EDR solution.
 - Acts as the victim machine
 - Sends logs to the LimaCharlie over the internet
 - Tools:<br>
-       - EDR Agent Installation (configure to push endpoint data to our LimaCharlie Organization)
+       - EDR Agent Installation (configure to push endpoint data to our LimaCharlie Organization)<br>
        - "LaZagne" (credential stealer malware)
 
 ![image.png](media/VM%20&%20EDR%20Setup/image2.png)
