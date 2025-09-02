@@ -35,17 +35,5 @@ For this project, Lima Charlie was the chosen EDR solution.
 
 - Collects and analyzes logs from Windows client
 
-### ☁️ **Detection Rule Creation**
-
-![image.png](media/VM%20&%20EDR%20Setup/image5.png)
-
-- We will be modifying an existing rule on LimaCharlie
-
-Leave the previous page open. Open LimaCharlie on a new Tab.
-Click on your Organization, and on the left, navigate to Automation > D&R Rules
-We will not be creaing a rule from scratch. So we will be using “Credential Access Process creation rule” template.
-
-
-
 
 
