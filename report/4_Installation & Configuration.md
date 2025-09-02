@@ -4,7 +4,7 @@
 
 ### SETUP MESSAGING SYSTEM (Slack & Email) AND SOAR (Tines)
 
-**Setup Slack**
+- **Setup Slack**
 
 Set up a Slack account and create a channel for alerts. If you already have an account, just create a new channel for alerting.
 
@@ -35,7 +35,7 @@ Set up a Slack account and create a channel for alerts. If you already have an a
 
 - Slack and Email input, we will change the message to include important information concerning the alert. The message should contain the following information:
 
-![image.png](media/Installation%20&%20Configuration/image4.png)
+<img src="media/Installation%20&%20Configuration/image4.png" width="400" height="450">
 
 **2. Analyst Prompting:**
 
