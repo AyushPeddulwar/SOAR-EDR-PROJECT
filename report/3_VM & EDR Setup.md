@@ -30,7 +30,7 @@ For this project, Lima Charlie was the chosen EDR solution.
 ### ☁️ **LiamCharlie**
 
 ![image.png](media/VM%20&%20EDR%20Setup/image3.png)
-<br>
+<br> <br>
 ![image.png](media/VM%20&%20EDR%20Setup/image4.png)
 
 - Collects and analyzes logs from Windows client
