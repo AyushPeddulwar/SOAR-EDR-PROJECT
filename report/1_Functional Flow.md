@@ -4,11 +4,10 @@
 
 ### Flow Diagram
 
-![Basic Flow.png](media/Functional%20Flow/SOAR%20high.png)
+<img src="media/Functional%20Flow/SOAR%20high.png" alt="Basic Flow" width="800">
 
 ---
 
 ### Tines Flow Setup
 
-![Tines SOAR.png](media/Functional%20Flow/tines.png)
-
+<img src="media/Functional%20Flow/tines.png" alt="Tines SOAR" width="700">
