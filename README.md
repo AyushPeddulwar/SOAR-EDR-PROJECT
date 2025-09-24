@@ -14,6 +14,10 @@ SOAR-EDR Project is a simulated Security Orchestration, Automation, and Response
 - Automating incident notifications through both email and Slack channels.
 - Executing automated EDR response actions, such as isolating compromised endpoints.
 
+## 📝 Full Report
+
+Read the documentation in [report/](./report/)
+
 ## 🚨 Technologies Used
 
 Slack • LimaCharlie • Tines • VMware
