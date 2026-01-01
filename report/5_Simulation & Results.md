@@ -4,7 +4,7 @@
 
 ### 🔓 **Attack Scenario**
 
-- Scenario: Alex receives a file named “youarewelcome” and it fails to open normally and runs on Poershell.
+- Scenario: Alex receives a file named “youarewelcome” and it fails to open normally and runs on Powershell.
 
 As son as “youarewelcome” is executed, all the logs are sent to LimaCharlie. Rule detects this and creates an alert to admin automatically in Slack and email.
 
